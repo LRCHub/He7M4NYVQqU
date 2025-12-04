@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "素敵なしゅうまつを！",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-04T14:21:42.659643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "素敵なしゅうまつを！",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_素敵なしゅうまつを!_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "素敵なしゅうまつを！",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_素敵なしゅうまつを!_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "素敵なしゅうまつを！ / キタニタツヤ - Have a nice end! / Tatsuya Kitani",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_素敵なしゅうまつを!___キタニタツヤ_-_Have_a_nice_end!___Tatsuya_Kitani_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "素敵なしゅうまつを！ - Have a nice end!",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_素敵なしゅうまつを!_-_Have_a_nice_end!_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "素敵なしゅうまつを!",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/05_素敵なしゅうまつを!_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "素敵なしゅうまつを!",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_素敵なしゅうまつを!_キタニタツヤ.txt"
+    }
+  ]
+}
